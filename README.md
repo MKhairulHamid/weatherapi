@@ -219,6 +219,3 @@ For support questions:
 2. Check existing issues for answers
 3. Contact the maintainers if necessary
 
-## License
-
-[Add your license information here]
